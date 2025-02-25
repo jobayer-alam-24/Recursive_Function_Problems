@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\bin\Debug\net9.0\Recursive_Function_Problems.exe
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\bin\Debug\net9.0\Recursive_Function_Problems.deps.json
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\bin\Debug\net9.0\Recursive_Function_Problems.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\bin\Debug\net9.0\Recursive_Function_Problems.dll
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\bin\Debug\net9.0\Recursive_Function_Problems.pdb
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.sourcelink.json
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.dll
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\refint\Recursive_Function_Problems.dll
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.pdb
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\Recursive_Function_Problems.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\Projects\Recursive_Function_Problems\obj\Debug\net9.0\ref\Recursive_Function_Problems.dll
